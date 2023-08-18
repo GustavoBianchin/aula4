@@ -1,0 +1,10 @@
+1 arroz
+2 feijao
+3 frango
+4 bife
+5 lentinha
+6 polenta
+7 banana
+8 maça
+9 abacate
+10 kiwi
